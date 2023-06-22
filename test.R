@@ -36,4 +36,3 @@ adjusted_rate <- average_monthly_return - risk_free_rate
 Sharpe_ratio <- adjusted_rate / standard_deviation
   
 print(paste("standard Deviation:", Sharpe_ratio))
-print("test")
